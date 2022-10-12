@@ -23,9 +23,9 @@ The objectives of this module are: (a) the study of the paradigm of distributed 
 
 *Slides available on Canvas.*
 
-### Aulas de Suporte aos Trabalhos Práticos:
+## PBL Support:
 
-Haverá, conforme o número de trabalhos práticos, aulas de suporte a esses projetos.
+Depending on the need of practical assignments, there will be classes to support these assigments and the project.
 
 ### Planned contents for classes (may change due to several reasons!)
 | Week | Date | Class |
@@ -52,18 +52,12 @@ Haverá, conforme o número de trabalhos práticos, aulas de suporte a esses pro
 
 A avaliação poderá ser realizada de 3 formas distintas. Os alunos deverão escolher até **23 de setembro** [nesta Tarefa](https://mycampus.pt/courses/9033/assignments/8812) no Canvas.
 
-### 1. Avaliação Continua V1 - Trabalho Prático (60%) + Teste Escrito Final c/ 6 a 8 questões (40%)
-
-Continuous assessment:
+### 1. Continuous assessment:
 -	60% Intermediate assessment:
-  -	20% Individual assignments
-  -	80% Two deliveries & discussion of the PBL project 
+  -	50% Individual assignments
+  -	50% Two deliveries & discussion of the PBL project 
 -	40% End of term assessment
   - 100% Final delivery of the PBL project + project report + individual discussion
-
-
-Os alunos devem escolher um dos [Trabalhos Práticos](https://github.com/pmrosa-classes/SistemasDistribuidos-2022-2023/blob/main/TrabsP/TrabsPraticos.md) disponiveis.
-Trata-se do método mais indicado para quem gosta de implementar soluções.
 
 Quem escolher este método de avaliação continua terá que preencher [esta Tarefa](https://mycampus.pt/courses/13232/assignments/15480) no Canvas para indicar o trabalho escolhido e [esta Tarefa](https://mycampus.pt/courses/13232/assignments/15479) no Canvas para indicar os elementos do grupo, ambas até **23 de setembro.**
 
@@ -71,29 +65,8 @@ Terá também de entrega uma Proposta para o trabalho a realizar. O formato da p
 
 Importante respeitar as datas de entrega do trabalho prático. Não serão aceites adiamentos.
 
-### 2. Exame Final V3 - Teste Escrito Final c/ 16-20 questões, 3 a 4 de desenvolvimento (100%) 
-
-Final assessment:
-•	100% Practical exam
-
-Não existem trabalhos práticos nem teóricos e a avaliação é realizada no final do semestre com um unico teste que, no entanto, englobará temas de papers e trabalhos práticos.
-
-### 4. Regras de Avaliacao Continua / Avaliação Final
-
-De acordo com o **Regulamento Geral de Avaliação de Conhecimentos e Competências da Universidade Europeia.** publicado em DR a 30 de setembro de 2021, os alunos poderão fazer **avaliação continua** sendo que essa avaliação *inclui dois momentos de avaliação:*
-- *A realização de vários instrumentos de avaliação durante o período letivo, os quais devem, obrigatoriamente, representar um mínimo de 30 % e um máximo de 70 %, na ponderação para o cálculo da classificação final da unidade curricular;*
-- *A realização de uma prova final — teste escrito, coincidente em calendário letivo com a época normal da avaliação final.*
-*Sendo a avaliação contínua aquela que, com caráter regular e constante, decorre durante todo o período letivo e reflete uma permanente interação entre o docente e o estudante.*
-
-Nesta UC são instrumentos da avaliação contínua, os Trabalhos Teóricos e os Trabalhos Práticos, nas ponderações indicadas para cada versão. 
-
-**Nota Relevante:** Não são admitidos à realização da prova final de avaliação continua, os estudantes que obtiverem uma classificação inferior a 8 (oito) valores na média dos elementos de avaliação previstos, neste caso nos Trabalhos Teóricos e nos Trabalhos Práticos. Poderá, no entanto, não realizar alguns trabalhos. 
-
-Os alunos deverão ter uma taxa de presenças de 70% nas aulas. Excecionalmente 50% nos casos excecionados no regulamento.
-
-Ainda de acordo com o mesmo regulamento, os estudantes têm o direito a optar pelo regime de **avaliação final** (avaliação por exame) que integra uma prova escrita sobre a matéria toda lecionada. Essa é a versão V3 apresentada em cima.
-
-Em qualquer dos casos avaliacao escolhido, os Teste Escritos serão realizados nas datas marcadas pela Secretaria Escolar.
+### 2. Final assessment:
+-	100% Practical exam
 
 ## Tasks
 
