@@ -54,6 +54,14 @@ A avaliação poderá ser realizada de 3 formas distintas. Os alunos deverão es
 
 ### 1. Avaliação Continua V1 - Trabalho Prático (60%) + Teste Escrito Final c/ 6 a 8 questões (40%)
 
+Continuous assessment:
+-	60% Intermediate assessment:
+  -	20% Individual assignments
+  -	80% Two deliveries & discussion of the PBL project 
+-	40% End of term assessment
+  - 100% Final delivery of the PBL project + project report + individual discussion
+
+
 Os alunos devem escolher um dos [Trabalhos Práticos](https://github.com/pmrosa-classes/SistemasDistribuidos-2022-2023/blob/main/TrabsP/TrabsPraticos.md) disponiveis.
 Trata-se do método mais indicado para quem gosta de implementar soluções.
 
@@ -63,7 +71,10 @@ Terá também de entrega uma Proposta para o trabalho a realizar. O formato da p
 
 Importante respeitar as datas de entrega do trabalho prático. Não serão aceites adiamentos.
 
-### 3. Exame Final V3 - Teste Escrito Final c/ 16-20 questões, 3 a 4 de desenvolvimento (100%) 
+### 2. Exame Final V3 - Teste Escrito Final c/ 16-20 questões, 3 a 4 de desenvolvimento (100%) 
+
+Final assessment:
+•	100% Practical exam
 
 Não existem trabalhos práticos nem teóricos e a avaliação é realizada no final do semestre com um unico teste que, no entanto, englobará temas de papers e trabalhos práticos.
 
