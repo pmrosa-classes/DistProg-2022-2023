@@ -37,23 +37,23 @@ Depending on the need of practical assignments, there will be classes to support
 ### Planned contents for classes (may change due to several reasons!)
 | Week | Date | Class |
 | :-----------: | :-----------: | :---------- |
-| 01 | 14 sep |   |
-| 02 | 21 sep | ; *C Language basics*  |
-| 03 | 28 sep | ; *C Language basics II* |
+| 01 | 14 sep | Distributed Systems; InterProcess Communication  |
+| 02 | 21 sep | Processes; Threads ; *C Language basics*  |
+| 03 | 28 sep | Scheduling in OS; ; *C Language basics II* |
 | -- | 05 oct | *Nationtal Holiday* |
-| 04 | 12 oct | ; *C Language Pointers*; *Homework Support* |
+| 04 | 12 oct | Scheduling in OS; Distributed Programming Challenges; Multiplayer Games brief History; *C Language Pointers*; *Homework Support* |
 | 05 | 19 oct | *C Language Pointers/Strings exercices*  |
-| 06 | 26 oct |  |
+| 06 | 26 oct | Concurrency |
 | -- | 02 nov | *No classes on schedule this week* |
-| 07 | 09 nov |   |
-| 08 | 18 nov |  1st Acessment Delivery |
-| 09 | 25 nov |   |
-| 10 | 02 nov |   |
-| 11 | 09 dez |  2nd Acessment Delivery|
-| 12 | 16 dez |   |
+| 07 | 09 nov | Client Server Communication in Games; Peer-to-Peer Model  |
+| 08 | 18 nov | Matchmaking Servers ; *Sockets Programming*; 1st Acessment Delivery |
+| 09 | 25 nov | *Sockets Programming Exercices* |
+| 10 | 02 nov | Matchmaking Servers |
+| 11 | 09 dez | REST Webservices; 2nd Acessment Delivery|
+| 12 | 16 dez | *PBL Support*  |
 | -- | 23 dez | *Christmas Holidays* |
 | -- | 30 dez | *Christmas Holidays* |
-| 13 | 06 jan |  3rd Acessment Delivery; Final delivery of the PBL project + project report + individual discussion |
+| 13 | 06 jan | 3rd Acessment Delivery; Final delivery of the PBL project + project report + individual discussion |
 
 ## Acessement 
 
