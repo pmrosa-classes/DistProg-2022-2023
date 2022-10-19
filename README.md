@@ -75,9 +75,9 @@ Please complete Task 2 with PBL information (1 A4 sheet with short PBL descripti
 Task list on MyCanvas:
 - Canvas [Task 1](https://mycampus.pt/courses/13203/assignments/17858) with group information.
 - Canvas [Task 2](https://mycampus.pt/courses/13203/assignments/17859) with PBL information.
-- Canvas [Task 3]() 1st Acessement Delivery
-- Canvas [Task 4]() 2nd Acessement Delivery
-- Canvas [Task 5]() 3rd Acessement Delivery
+- Canvas [Task 3](https://mycampus.pt/courses/13203/assignments/17861) 1st Acessement Delivery
+- Canvas [Task 4](https://mycampus.pt/courses/13203/assignments/17862) 2nd Acessement Delivery
+- Canvas [Task 5](https://mycampus.pt/courses/13203/assignments/17863) 3rd Acessement Delivery
 
 ## Attendance
 
