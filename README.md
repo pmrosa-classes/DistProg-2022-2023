@@ -2,10 +2,14 @@
 
 ## Distributed Programming contents for Games & Devel, 3rd semester / IADE
 
-The objectives of this module are: (a) the study of the paradigm of distributed programming, distributed systems, and data communication solutions; and (b) the study of the C programming language, and its use in the development of multiplayer games. Being an integrated part of a study program that operates in PBL (Project Based Learning), this module aims to transmit to students the knowledge of distributed programming necessary for the development of the semester’s project.
+The objectives of this module are:
+1. the study of the paradigm of distributed programming, distributed systems, and data communication solutions;
+2. the study of the C programming language, and its use in the development of multiplayer games. 
+
+Being an integrated part of a study program that operates in PBL (Project Based Learning), this module aims to transmit to students the knowledge of distributed programming necessary for the development of the semester’s project.
 
 
-### Horário 
+### Timetable 
 | Dia | Hora | 
 | :-----------: | :-----------: | 
 | Wednesday | 16:00 - 18:40 | 
@@ -61,7 +65,8 @@ Acessement is made in two ways.
 -	25% End of term assessment: Final delivery of the PBL project + project report + individual discussion
 
 Please complete Task 1 with Group information.
-Please complete Task 2 with PBL information (1 A4 sheet with short PBL description).
+
+Please complete Task 2 with PBL information.
 
 ### 2. Final assessment:
 •	100% Practical exam
