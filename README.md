@@ -10,6 +10,14 @@ The objectives of this module are: (a) the study of the paradigm of distributed 
 | :-----------: | :-----------: | 
 | Wednesday | 16:00 - 18:40 | 
 
+## Learning Outcomes
+
+After completing this module students should be able to:
+1. Program using the paradigm of distributed programming;
+2. Know the main models and languages for distributed programming;
+3. Assess aspects related with the performance of distributed programs, their advantages, and their shortcomings;
+4. Implement client-server and peer-to-peer programs using C sockets, as well as TCP or UDP.
+
 ## Program
 
 1. Introduction to distributed systems and distributed programming;
@@ -19,7 +27,6 @@ The objectives of this module are: (a) the study of the paradigm of distributed 
 5. Multiplayer and network communication;
 6. TCP and UDP communication in C;
 7. Evaluation of distributed systems.
-
 
 *Slides available on Canvas.*
 
@@ -50,28 +57,26 @@ Depending on the need of practical assignments, there will be classes to support
 
 ## Acessement 
 
-A avaliação poderá ser realizada de 3 formas distintas. Os alunos deverão escolher até **23 de setembro** [nesta Tarefa](https://mycampus.pt/courses/9033/assignments/8812) no Canvas.
+Acessement is made in two ways.
 
 ### 1. Continuous assessment:
--	60% Intermediate assessment:
-  -	50% Individual assignments
-  -	50% Two deliveries & discussion of the PBL project 
--	40% End of term assessment
-  - 100% Final delivery of the PBL project + project report + individual discussion
+-	50% Individual assignments
+-	25% Two deliveries & discussion of the PBL project 
+-	25% End of term assessment: Final delivery of the PBL project + project report + individual discussion
 
 Quem escolher este método de avaliação continua terá que preencher [esta Tarefa](https://mycampus.pt/courses/13232/assignments/15480) no Canvas para indicar o trabalho escolhido e [esta Tarefa](https://mycampus.pt/courses/13232/assignments/15479) no Canvas para indicar os elementos do grupo, ambas até **23 de setembro.**
 
-Terá também de entrega uma Proposta para o trabalho a realizar. O formato da proposta está na página de [Documentação](https://github.com/pmrosa-classes/SistemasDistribuidos-2022-2023/blob/main/TrabsP/Documentacao.md) do projeto.
-
-Importante respeitar as datas de entrega do trabalho prático. Não serão aceites adiamentos.
+Please complete Task 1 with group information.
+Please complete Task 2 with PBL information.
 
 ### 2. Final assessment:
--	100% Practical exam
+•	100% Practical exam
 
 ## Tasks
 
 Task list on MyCanvas:
-*to be published*
+- Task 1 with group information.
+- Task 2 with PBL information.
 
 ## Attendance
 
