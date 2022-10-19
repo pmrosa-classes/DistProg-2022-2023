@@ -73,6 +73,7 @@ Please complete Task 2 with PBL information.
 
 ## Practical Exercices / Solutions
 
+- Exercice Solutions - [Pointers](p/pointers.md)
 - [The ANSI C Standard Library](https://www.csse.uwa.edu.au/programming/ansic-library.html)
 
 *much more to be published, mainly in Canvas*
@@ -138,7 +139,7 @@ Group List will be available here.
 
 ## Discord
 
-For better communication with the teacher please use the Discord Server available in this [invitation](https://discord.gg/8Et4knVd).
+*not available*
 
 ## Course main schedule
 *(still updating)*
