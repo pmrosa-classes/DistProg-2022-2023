@@ -40,7 +40,7 @@ After completing this module students should be able to:
 | 01 | 14 sep | Distributed Systems; InterProcess Communication  |
 | 02 | 21 sep | Processes; Threads ; *C Language basics*  |
 | 03 | 28 sep | Scheduling in OS; ; *C Language basics II* |
-| -- | 05 oct | *Nationtal Holiday* |
+| -- | 05 oct | *National Holiday* |
 | 04 | 12 oct | Scheduling in OS; Distributed Programming Challenges; Multiplayer Games brief History; *C Language Pointers*; *Homework Support* |
 | 05 | 19 oct | *C Language Pointers/Strings exercices*  |
 | 06 | 26 oct | Concurrency |
