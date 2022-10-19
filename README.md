@@ -114,7 +114,7 @@ PBL related info (some infos **could not be of interest to this course**):
 
 ## Tasks
 
-Task list on MyCanvas (**still some PBL-related tasks missing):
+Task list on MyCanvas (**still some PBL-related tasks missing**):
 - Canvas [Task 1](https://mycampus.pt/courses/13203/assignments/17858) with group information.
 - Canvas [Task 2](https://mycampus.pt/courses/13203/assignments/17859) with PBL information.
 - Canvas [Task 3](https://mycampus.pt/courses/13203/assignments/17861) 1st Acessement Delivery
