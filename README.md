@@ -130,24 +130,24 @@ Students can see their attendance [here](https://docs.google.com/spreadsheets/d/
 Students learn, apply the concepts learned, and develop programming skills mainly by working on the semester’s team project. Other active and experiential learning methods are also used. For each topic, students are presented with theoretical concepts and examples of practical implementations applying these concepts, as well as challenged with exercises that explore each concept. Students are encouraged to discuss with each other and with the lecturer.
 
 ## Groups
-Os trabalhos práticos são em grupo (3 alunos no máximo, 2 alunos no minimo) e a constituiçãoo do mesmo deve ser indicado [nesta Tarefa](https://mycampus.pt/courses/9033/assignments/8782) no Canvas até dia 25 de fevereiro.
-A lista dos grupos poderá ser consultada [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vSH-YzCTJ9YAJ5jNGcHNwEwd6AZf-q17Jd35VI3c3L16X0Xh6gbeZY1o2GrLsLtZFuMuZCSZC3t4Df-/pubhtml?gid=703206536&single=true)
+PBL related groups - please complete Task 1 
+
+Group List will be available here.
 
 ## Discord
 
 For better communication with the teacher please use the Discord Server available in this [invitation](https://discord.gg/8Et4knVd).
 
 ## Course main schedule
-*(em atualização)*
-- Até **23 de setembro** escolha do **Tipo de Avaliação** e da **Constituição dos Grupos (AC V1)** nesta [Tarefa](https://mycampus.pt/courses/13232/assignments/15479) do Canvas 
-- Adicionalmente, conforme o tipo de avaliação escolhido:
-  - (AC V1) Escolher os temas dos trabalhos práticos e entrega da **Proposta do Trabalho Prático** nesta [Tarefa](https://mycampus.pt/courses/13232/assignments/15480). Indicações sobre o formato da proposta na página de [Documentação](https://github.com/pmrosa-classes/SistemasDistribuidos-2022-2023/tree/main/TrabsP); ;
-  - (AC V2) Escolha dos temas dos trabalhos teóricos nesta [Tarefa](https://mycampus.pt/courses/13232/assignments/15481)
-- **27 de setembro** - Publicação da distribuição dos temas e datas de apresentação dos trabalhos teóricos 
-- **28 de setembro** - Apresentação, durante a aula, da proposta do projeto a realizar 
-- a partir de **5 de outubro** iniciam-se as apresentações dos trabalhos teóricos 
-- até **2 de janeiro** - Entrega dos trabalhos práticos nesta [Tarefa](https://mycampus.pt/courses/13232/assignments/15482)
-- dia **14 de dezembro** (para entregas antecipadas) ou **4 de janeiro** - Apresentações dos trabalhos práticos 
+*(still updating)*
+-  2022.10.28 - PBL 1st milestone: Specification
+-  2022.11.04 - Task 1 group information.
+-  2022.11.04 - Task 2 PBL information
+-  2022.11.18 - Task 3 1st Acessement Delivery
+-  2022.12.02 - PBL 2nd milestone: Prototypes
+-  2022.12.09 - Task 4 2nd Acessement Delivery
+-  2023.01.06 - Task 5 3rd Acessement Delivery
+-  2023.01.16 - PBL 3rd milestone: Vertical slices
 
 ## Bibliography
 - Brendan Burns (2018) Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services, O’Reilly
