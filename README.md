@@ -158,5 +158,5 @@ For better communication with the teacher please use the Discord Server availabl
 
 
 ## Log
-
+- 2022.10.19 - Course repository made available to students
 
