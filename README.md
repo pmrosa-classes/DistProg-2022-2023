@@ -66,7 +66,7 @@ Please complete Task 2 with PBL information (1 A4 sheet with short PBL descripti
 ### 2. Final assessment:
 •	100% Practical exam
 
-## Practical Exercices
+## Practical Exercices / Solutions
 
 *to be published*
 
