@@ -30,30 +30,30 @@ After completing this module students should be able to:
 
 *Slides available on Canvas.*
 
-## PBL Support:
+## Practical Exercices:
 
 Depending on the need of practical assignments, there will be classes to support these assigments and the project.
 
 ### Planned contents for classes (may change due to several reasons!)
 | Week | Date | Class |
 | :-----------: | :-----------: | :---------- |
-| 01 | 14 sep | Apresentação; Avaliação; Grupos; Caracterização de Sistemas Distribuídos  |
-| 02 | 21 sep | Caracterização de Sistemas Distribuídos; *Apoio à Escolha de Trabalhos Práticos*  |
-| 03 | 28 sep | Comunicação Inter-Processos; *Apresentação das propostas de Trabalhos Práticos* |
-| 04 | 05 oct | Chamadas a Procedimentos Remotos / gRPC; Coordenação |
-| 05 | 12 oct | Consenso em ambiente distribuídos; *Apoio Trabalhos Práticos* |
-| 06 | 19 oct | Replicação; *Apoio Trabalhos Práticos*  |
-| 07 | 26 oct | Transações; Concorrência; Concorrência; *Apoio Trabalhos Práticos* |
-| -- | 02 nov | *Não há aulas de SID nesta semana* |
-| 08 | 09 nov | Sistemas de Ficheiros; *Apoio Trabalhos Práticos*  |
-| 09 | 18 nov | Serviços de Nomes/Diretorios; Blockchain; *Apoio Trabalhos Práticos*  |
-| 10 | 25 nov | Aplicações de Sistemas Distribuídos: IoT; *Apoio Trabalhos Práticos* |
-| 11 | 02 nov | Tópicos de Segurança em ambientes distribuídos; *Apoio Trabalhos Práticos* |
-| 12 | 09 dez | *Apoio Trabalhos Práticos* |
-| 13 | 16 dez | Teste de Avaliação |
-| -- | 23 dez | *Férias de Natal* |
-| -- | 30 dez | *Férias de Natal* |
-| 14 | 06 jan | Apresentação dos Trabalhos Práticos |
+| 01 | 14 sep |   |
+| 02 | 21 sep | ; *C Language basics*  |
+| 03 | 28 sep | ; *C Language basics II* |
+| -- | 05 oct | *Nationtal Holiday* |
+| 04 | 12 oct | ; *C Language Pointers*; *Homework Support* |
+| 05 | 19 oct | *C Language Pointers/Strings exercices*  |
+| 06 | 26 oct |  |
+| -- | 02 nov | *No classes on schedule this week* |
+| 07 | 09 nov |   |
+| 08 | 18 nov |  1st Acessment Delivery |
+| 09 | 25 nov |   |
+| 10 | 02 nov |   |
+| 11 | 09 dez |  2nd Acessment Delivery|
+| 12 | 16 dez |   |
+| -- | 23 dez | *Christmas Holidays* |
+| -- | 30 dez | *Christmas Holidays* |
+| 13 | 06 jan |  3rd Acessment Delivery; Final delivery of the PBL project + project report + individual discussion |
 
 ## Acessement 
 
