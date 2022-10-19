@@ -30,10 +30,6 @@ After completing this module students should be able to:
 
 *Slides available on Canvas.*
 
-## Practical Exercices:
-
-*to be published*
-
 ### Planned contents for classes (may change due to several reasons!)
 | Week | Date | Class |
 | :-----------: | :-----------: | :---------- |
@@ -69,6 +65,10 @@ Please complete Task 2 with PBL information (1 A4 sheet with short PBL descripti
 
 ### 2. Final assessment:
 •	100% Practical exam
+
+## Practical Exercices
+
+*to be published*
 
 ## Tasks
 
