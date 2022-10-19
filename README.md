@@ -43,7 +43,7 @@ After completing this module students should be able to:
 | -- | 05 oct | *National Holiday* |
 | 04 | 12 oct | Scheduling in OS; Distributed Programming Challenges; Multiplayer Games brief History; *C Language Pointers*; *Homework Support* |
 | 05 | 19 oct | *C Language Pointers/Strings exercices*  |
-| 06 | 26 oct | Concurrency |
+| 06 | 26 oct | Concurrency; *C Language exercices*  |
 | -- | 02 nov | *No classes on schedule this week* |
 | 07 | 09 nov | Client Server Communication in Games; Peer-to-Peer Model; *C Language exercices*   |
 | 08 | 18 nov | Matchmaking Servers ; *Sockets Programming*; 1st Acessement Delivery |
