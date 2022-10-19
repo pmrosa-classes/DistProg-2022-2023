@@ -72,40 +72,41 @@ Please complete Task 2 with PBL information (1 A4 sheet with short PBL descripti
 
 ## PBL related
 
-PBL related info (could not be of interest to this course):
+PBL related info (some infos **could not be of interest to this course**):
 
-1st milestone: Specification
-• Delivery: October 28
-• Presentation: November 04
-• Deliverables:
-• Presentation slides
-• Spec sheet
-• Game Design Document
-• Delivery report
+**1st milestone: Specification**
+*Delivery: October 28*
+*Presentation: November 04*
+- Deliverables:
+- Presentation slides
+- Spec sheet
+- Game Design Document
+- Delivery report
 
-2nd milestone: Prototypes
-• Delivery: December 02
-• Presentation: December 09
-• Deliverables:
-• Presentation slides
-• Game prototype
-• Usage instructions
-• Game source code
-• Delivery report
+**2nd milestone: Prototypes**
+*Delivery: December 02*
+*Presentation: December 09*
+- Deliverables:
+- Presentation slides
+- Game prototype
+- Usage instructions
+- Game source code
+- Delivery report
 
-3rd milestone: Vertical slices
-• Delivery: January 13
-• Presentation: January 20
-• Deliverables:
-• Trailer
-• Presentation slides
-• Spec sheet
-• Game Design Document
-• Game vertical slice
-• Usage instructions
-• Game source code
-• Server source code and DB scripts
-• Delivery report
+**3rd milestone: Vertical slices**
+*Delivery: January 13*
+*Presentation: January 20*
+- Deliverables:
+- Trailer
+- Presentation slides
+- Spec sheet
+- Game Design Document
+- Game vertical slice
+- Usage instructions
+- Game source code
+- Server source code and DB scripts
+- Delivery report
+- 
 ## Tasks
 
 Task list on MyCanvas:
