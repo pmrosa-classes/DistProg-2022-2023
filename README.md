@@ -45,16 +45,16 @@ Depending on the need of practical assignments, there will be classes to support
 | 05 | 19 oct | *C Language Pointers/Strings exercices*  |
 | 06 | 26 oct | Concurrency |
 | -- | 02 nov | *No classes on schedule this week* |
-| 07 | 09 nov | Client Server Communication in Games; Peer-to-Peer Model  |
+| 07 | 09 nov | Client Server Communication in Games; Peer-to-Peer Model; *C Language exercices*   |
 | 08 | 18 nov | Matchmaking Servers ; *Sockets Programming*; 1st Acessment Delivery |
 | 09 | 25 nov | *Sockets Programming Exercices* |
-| 10 | 02 nov | Matchmaking Servers |
-| 11 | 09 dez | REST Webservices; 2nd Acessment Delivery|
-| 12 | 16 dez | *PBL Support*  |
+| 10 | 02 nov | Matchmaking Servers; REST Webservices; *Sockets Programming Exercices* |
+| 11 | 09 dez | *PBL Support* | 
+| 12 | 16 dez | *PBL Support* |
 | -- | 23 dez | *Christmas Holidays* |
 | -- | 30 dez | *Christmas Holidays* |
 | 13 | 06 jan | 3rd Acessment Delivery; Final delivery of the PBL project + project report + individual discussion |
-
+ 
 ## Acessement 
 
 Acessement is made in two ways.
