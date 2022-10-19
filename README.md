@@ -64,10 +64,8 @@ Acessement is made in two ways.
 -	25% Two deliveries & discussion of the PBL project 
 -	25% End of term assessment: Final delivery of the PBL project + project report + individual discussion
 
-Quem escolher este método de avaliação continua terá que preencher [esta Tarefa](https://mycampus.pt/courses/13232/assignments/15480) no Canvas para indicar o trabalho escolhido e [esta Tarefa](https://mycampus.pt/courses/13232/assignments/15479) no Canvas para indicar os elementos do grupo, ambas até **23 de setembro.**
-
-Please complete Task 1 with group information.
-Please complete Task 2 with PBL information.
+Please complete Task 1 with Group information.
+Please complete Task 2 with PBL information (1 A4 sheet with short PBL description).
 
 ### 2. Final assessment:
 •	100% Practical exam
@@ -80,7 +78,7 @@ Task list on MyCanvas:
 
 ## Attendance
 
-Os alunos podem acompanhar [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vSH-YzCTJ9YAJ5jNGcHNwEwd6AZf-q17Jd35VI3c3L16X0Xh6gbeZY1o2GrLsLtZFuMuZCSZC3t4Df-/pubhtml?gid=1412701734&single=true) a percentagem de aulas a que assistiram.
+Students can see their attendance [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQXmUbA_pEfSGp1CvN28CubOIn6omHCVuQ9C_zCtLbnYJ9l6600lTdMC1XRzK1d3EPha1e_ggaCPNKI/pubhtml?gid=1412701734&single=true).
 
 ## Teaching methodologies 
 Aos alunos é fornecida toda a documentação utilizada durante as aulas, nomeadamente:
