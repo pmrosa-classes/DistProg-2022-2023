@@ -73,7 +73,9 @@ Please complete Task 2 with PBL information.
 
 ## Practical Exercices / Solutions
 
-*to be published*
+- [The ANSI C Standard Library](https://www.csse.uwa.edu.au/programming/ansic-library.html)
+
+*much more to be published, mainly in Canvas*
 
 ## PBL related
 
