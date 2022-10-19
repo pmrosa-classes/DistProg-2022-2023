@@ -126,10 +126,8 @@ Task list on MyCanvas:
 Students can see their attendance [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQXmUbA_pEfSGp1CvN28CubOIn6omHCVuQ9C_zCtLbnYJ9l6600lTdMC1XRzK1d3EPha1e_ggaCPNKI/pubhtml?gid=1412701734&single=true).
 
 ## Teaching methodologies 
-Aos alunos é fornecida toda a documentação utilizada durante as aulas, nomeadamente:
-- Ficheiros pdf com os slides das aulas teóricas (Plataforma Canvas)
-- Orientações na escolha dos papers cientificos a apresentar
-- Orientações para a elaboração dos trabalhos práticos na avaliação continua
+
+Students learn, apply the concepts learned, and develop programming skills mainly by working on the semester’s team project. Other active and experiential learning methods are also used. For each topic, students are presented with theoretical concepts and examples of practical implementations applying these concepts, as well as challenged with exercises that explore each concept. Students are encouraged to discuss with each other and with the lecturer.
 
 ## Groups
 Os trabalhos práticos são em grupo (3 alunos no máximo, 2 alunos no minimo) e a constituiçãoo do mesmo deve ser indicado [nesta Tarefa](https://mycampus.pt/courses/9033/assignments/8782) no Canvas até dia 25 de fevereiro.
