@@ -42,14 +42,14 @@ After completing this module students should be able to:
 | 06 | 26 oct | Concurrency |
 | -- | 02 nov | *No classes on schedule this week* |
 | 07 | 09 nov | Client Server Communication in Games; Peer-to-Peer Model; *C Language exercices*   |
-| 08 | 18 nov | Matchmaking Servers ; *Sockets Programming*; 1st Acessment Delivery |
+| 08 | 18 nov | Matchmaking Servers ; *Sockets Programming*; 1st Acessement Delivery |
 | 09 | 25 nov | *Sockets Programming Exercices* |
 | 10 | 02 nov | Matchmaking Servers; REST Webservices; *Sockets Programming Exercices* |
-| 11 | 09 dez | *PBL Support* | 
+| 11 | 09 dez | 2nd Acessement Delivery; *PBL Support* | 
 | 12 | 16 dez | *PBL Support* |
 | -- | 23 dez | *Christmas Holidays* |
 | -- | 30 dez | *Christmas Holidays* |
-| 13 | 06 jan | 3rd Acessment Delivery; Final delivery of the PBL project + project report + individual discussion |
+| 13 | 06 jan | 3rd Acessement Delivery; Final delivery of the PBL project + project report + individual discussion |
  
 ## Acessement 
 
@@ -73,8 +73,11 @@ Please complete Task 2 with PBL information (1 A4 sheet with short PBL descripti
 ## Tasks
 
 Task list on MyCanvas:
-- Task 1 with group information.
-- Task 2 with PBL information.
+- Canvas [Task 1](https://mycampus.pt/courses/13203/assignments/17858) with group information.
+- Canvas [Task 2](https://mycampus.pt/courses/13203/assignments/17859) with PBL information.
+- Canvas [Task 3]() 1st Acessement Delivery
+- Canvas [Task 4]() 2nd Acessement Delivery
+- Canvas [Task 5]() 3rd Acessement Delivery
 
 ## Attendance
 
