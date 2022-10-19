@@ -94,7 +94,7 @@ A lista dos grupos poderá ser consultada [aqui](https://docs.google.com/spreads
 
 ## Discord
 
-Para contactos extra aulas ou mesmo para contactos entre elementos dos grupos deverá utilizar oo Discord. Aceda via este [convite](https://discord.gg/AanKf9EH).
+For better communication with the teacher please use the Discord Server available in this [invitation](https://discord.gg/8Et4knVd).
 
 ## Course main schedule
 *(em atualização)*
@@ -113,6 +113,7 @@ Para contactos extra aulas ou mesmo para contactos entre elementos dos grupos de
 - TANENBAUM, Andrew, STEEN, Maarten Van (2016), Distributed Systems: Principles and Paradigms, 2nd Edition, Prentice Hall;
 - COULORIS, George, DOLLIMORE, Jean, KINDBERG, Tim (2011), Distributed Systems: Concepts and Design, 4th Edition, Addison-Wesley;
 - DOUGLAS E., Comer, “Internetworking with TCP/IP - Volume I; Principles, Protocols, And Architecture”, Second Edition, Prentice Hall
+- (PBL related) Glazer, J., Madhav, S. (2015). Multiplayer Game Programming: Architecting Networked Games. Addison-Wesley Professional. ISBN: 978-0134034300.
 
 
 ## Log
