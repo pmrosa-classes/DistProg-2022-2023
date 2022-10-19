@@ -32,7 +32,7 @@ After completing this module students should be able to:
 
 ## Practical Exercices:
 
-Depending on the need of practical assignments, there will be classes to support these assigments and the project.
+*to be published*
 
 ### Planned contents for classes (may change due to several reasons!)
 | Week | Date | Class |
