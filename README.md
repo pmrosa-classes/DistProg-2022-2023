@@ -10,7 +10,7 @@ Being an integrated part of a study program that operates in PBL (Project Based 
 
 
 ### Timetable 
-| Dia | Hora | 
+| Day | Hour | 
 | :-----------: | :-----------: | 
 | Wednesday | 16:00 - 18:40 | 
 
