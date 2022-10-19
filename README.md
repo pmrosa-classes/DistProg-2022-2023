@@ -106,7 +106,7 @@ PBL related info (some infos **could not be of interest to this course**):
 - Game source code
 - Server source code and DB scripts
 - Delivery report
-- 
+
 ## Tasks
 
 Task list on MyCanvas:
