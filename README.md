@@ -73,7 +73,7 @@ Please complete Task 2 with PBL information.
 
 ## Practical Exercices / Solutions
 
-- Exercice Solutions - [Pointers](p/pointers.md)
+- Practical Classes [Exercice Solutions](p/c-language-exercices.md)
 - [The ANSI C Standard Library](https://www.csse.uwa.edu.au/programming/ansic-library.html)
 
 *much more to be published, mainly in Canvas*
