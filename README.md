@@ -46,11 +46,11 @@ After completing this module students should be able to:
 | 06 | 26 oct | Concurrency; *C Language exercices*  |
 | -- | 02 nov | *No classes on schedule this week* |
 | 07 | 09 nov | Client Server Communication in Games; Peer-to-Peer Model; *C Language exercices*   |
-| 08 | 18 nov | Matchmaking Servers ; *Sockets Programming*; 1st Acessement Delivery |
-| 09 | 25 nov | *Sockets Programming Exercices* *1st Individual assignment delivery* |
+| 08 | 18 nov | Matchmaking Servers ; *Sockets Programming* |
+| 09 | 25 nov | *Sockets Programming Exercices*; *1st Individual assignment delivery* |
 | 10 | 02 nov | Matchmaking Servers; REST Webservices; *Sockets Programming Exercices* *1st Individual assignment presentation*|
 | 11 | 09 dez | 2nd Acessement Delivery; *PBL Support* | 
-| 12 | 16 dez | *PBL Support* *2rd Individual assignment delivery*|
+| 12 | 16 dez | *PBL Support*; *2rd Individual assignment delivery*|
 | -- | 23 dez | *Christmas Holidays* |
 | -- | 30 dez | *Christmas Holidays* |
 | 13 | 06 jan | *3rd Individual assignment delivery*; 3rd Acessement Delivery; Final delivery of the PBL project + project report + individual discussion |
