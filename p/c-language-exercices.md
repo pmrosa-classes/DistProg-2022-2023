@@ -247,7 +247,7 @@ int main(int argc, char *argv[])
 
 # Winsock Exercice Solutions
 
-Important: You need to add the lib `ws2_32.lib` to the linker input (Open project's Property; Choose the Configuration Properties > Linker > Input property page; add `ws2_32.lib` to the Additional Dependencies property)
+**Important: You need to add the lib `ws2_32.lib` to the linker input (Open project's Property; Choose the Configuration Properties > Linker > Input property page; add `ws2_32.lib` to the Additional Dependencies property)**
 
 First run the server application in a command line `server`. It will listen on TCP port 27015 for a client to connect. The server receives data from the client and sends it back to the client. 
 
