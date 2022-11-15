@@ -247,6 +247,8 @@ int main(int argc, char *argv[])
 
 # Winsock Exercice Solutions
 
+First run the server application in a command line `server`. It will listen on TCP port 27015 for a client to connect. The server receives data from the client and sends it back to the client. 
+
 **Exercice 6**
 *Winsock Server*
 ```
@@ -394,6 +396,9 @@ int __cdecl main(void)
 
 **Exercice 7**
 *Winsock Client*
+
+The client application requires a name or ip address to connect to (where the server was run). Try to execute it on the same computer running `client localhost`. Then, try to execute on a different computer by running `client x.x.x.x` where x.x.x.x is the ip address of the computer where the server is running.
+
 ```
 #define WIN32_LEAN_AND_MEAN
 
