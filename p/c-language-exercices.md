@@ -394,7 +394,7 @@ int __cdecl main(void)
 
 ```
 *Source: https://learn.microsoft.com/en-us/windows/win32/winsock/complete-server-code*
-
+**Troubleshooting the server:** If you get an error opening the program 1) check in *task manager* if the program is still running from a previous run/session; 2) check with `netstat -a -n` (in a *command line*) if the port is still open (it can happen when the program didn't end normally).
 
 **Exercice 7**
 *Winsock Client*
