@@ -247,7 +247,7 @@ int main(int argc, char *argv[])
 
 # Winsock Exercice Solutions
 
-**Important: check the course materials for socket API system calls **
+**Important: check the course materials for socket API system calls**
 
 **Important (Visual Studio): You need to add the lib `ws2_32.lib` to the linker input (Open project's Property; Choose the Configuration Properties > Linker > Input property page; add `ws2_32.lib` to the Additional Dependencies property)**
 
