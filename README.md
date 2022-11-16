@@ -48,11 +48,11 @@ After completing this module students should be able to:
 | 07 | 09 nov | Client Server Communication in Games; Peer-to-Peer Model; *C Language exercices*   |
 | 08 | 18 nov | Matchmaking Servers ; *Sockets Programming* |
 | 09 | 25 nov | *Sockets Programming Exercices*; *1st Individual assignment delivery* |
-| 10 | 02 nov | Matchmaking Servers; REST Webservices; *Sockets Programming Exercices* *1st Individual assignment presentation*|
-| 11 | 09 dez | 2nd Acessement Delivery; *PBL Support* | 
-| 12 | 16 dez | *PBL Support*; *2rd Individual assignment delivery*|
-| -- | 23 dez | *Christmas Holidays* |
-| -- | 30 dez | *Christmas Holidays* |
+| 10 | 02 dec | Matchmaking Servers; REST Webservices; *Sockets Programming Exercices* *1st Individual assignment presentation*|
+| 11 | 09 dec | 2nd Acessement Delivery; *PBL Support* | 
+| 12 | 16 dec | *PBL Support*; *2rd Individual assignment delivery*|
+| -- | 23 dec | *Christmas Holidays* |
+| -- | 30 dec | *Christmas Holidays* |
 | 13 | 06 jan | *3rd Individual assignment delivery*; 3rd Acessement Delivery; Final delivery of the PBL project + project report + individual discussion |
  
 ## Acessement 
