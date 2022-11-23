@@ -46,14 +46,18 @@ After completing this module students should be able to:
 | 06 | 26 oct | Concurrency; *C Language exercices*  |
 | -- | 02 nov | *No classes on schedule this week* |
 | 07 | 09 nov | Client Server Communication in Games; Peer-to-Peer Model; *C Language exercices*   |
-| 08 | 18 nov | Matchmaking Servers ; *Sockets Programming* |
-| 09 | 25 nov | *Sockets Programming Exercices*; *1st Individual assignment delivery* |
-| 10 | 02 dec | Matchmaking Servers; *Sockets Programming Exercices* *1st Individual assignment presentation*|
-| 11 | 09 dec | 2nd Acessement Delivery; *PBL Support* | 
-| 12 | 16 dec | *PBL Support*; *2rd Individual assignment delivery*|
-| -- | 23 dec | *Christmas Holidays* |
-| -- | 30 dec | *Christmas Holidays* |
-| 13 | 06 jan | *3rd Individual assignment delivery*; 3rd Acessement Delivery; Final delivery of the PBL project + project report + individual discussion |
+| 08 | 16 nov | Client Server Communication in Games; Peer-to-Peer Model; *C Language exercices*   |
+| 09 | 23 nov | Matchmaking Servers ; *Sockets Programming Exercices*; |
+|    | 25 nov | *1st Individual assignment delivery* |
+| 10 | 30 nov | *1st Individual assignment presentation* *Sockets Programming Exercices* |
+| 11 | 07 dec | *Sockets Programming Exercices* *PBL Support*|
+|    | 09 dec | 2nd Acessement Delivery; |  
+| 12 | 14 dec | *2nd Individual assignment presentation* *PBL Support*|
+| -- | 21 dec | *Christmas Holidays* |
+| -- | 28 dec | *Christmas Holidays* |
+| 13 | 04 jan | *3rd Individual assignment support* *PBL Support* |
+|    | 06 jan | *3rd Individual assignment delivery*;  |
+|    | 13 jan | 3rd Acessement Delivery; Final delivery of the PBL project + project report + individual discussion |
  
 ## Acessement 
 
@@ -146,7 +150,7 @@ Group List will be available here.
 -  2022.10.28 - PBL 1st milestone: Specification
 -  2022.11.04 - Task 1 group information.
 -  2022.11.04 - Task 2 PBL information
--  2022.11.18 - Task 3 1st Acessement Delivery
+-  2022.11.25 - Task 3 1st Acessement Delivery
 -  2022.12.02 - PBL 2nd milestone: Prototypes
 -  2022.12.09 - Task 4 2nd Acessement Delivery
 -  2023.01.06 - Task 5 3rd Acessement Delivery
