@@ -46,7 +46,7 @@ After completing this module students should be able to:
 | 06 | 26 oct | Concurrency; *C Language exercices*  |
 | -- | 02 nov | *No classes on schedule this week* |
 | 07 | 09 nov | Client Server Communication in Games; Peer-to-Peer Model; *C Language exercices*   |
-| 08 | 16 nov | Client Server Communication in Games; Peer-to-Peer Model; *C Language exercices*   |
+| 08 | 16 nov | Client Server Communication *C Language + sockets exercices*   |
 | 09 | 23 nov | Matchmaking Servers ; *Sockets Programming Exercices*; |
 |    | 25 nov | *1st Individual assignment delivery* |
 | 10 | 30 nov | *1st Individual assignment presentation*; *Sockets Programming Exercices* |
