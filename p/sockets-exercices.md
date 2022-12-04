@@ -9,7 +9,7 @@
 
 First run the server application in a command line `server`. It will listen on TCP port 27015 for a client to connect. The server receives data from the client and sends it back to the client. 
 
-*Winsock Server*
+***Winsock Server***
 ```
 #undef UNICODE
 
@@ -154,7 +154,7 @@ int __cdecl main(void)
 
 **Troubleshooting the server:** If you get an error opening the program 1) check in *task manager* if the program is still running from a previous run/session; 2) check with `netstat -a -n` (in a *command line*) if the port is still open (it can happen when the program didn't end normally).
 
-*Winsock Client*
+***Winsock Client***
 
 The client application requires a name or ip address to connect to (where the server was run). Try to execute it on the same computer running `client localhost`. Then, try to execute on a different computer by running `client x.x.x.x` where x.x.x.x is the ip address of the computer where the server is running.
 
@@ -292,11 +292,11 @@ int __cdecl main(int argc, char **argv)
 
 -----
 
-## Example 2 - simple server and client for sending a string from the client to the server
+## Example 2 - simple server and client for sending a string from the keyboard of the client to the non-blocking server
 
 First run the server application in a command line `server`. It will listen on TCP port 27015 for a client to connect. The server receives data from the client and sends it back to the client. Do it until you hit "q" or "Q" and is always looking for connectins (non-blocking). 
 
-*Winsock Server*
+***Winsock Server***
 ```
 #undef UNICODE
 
@@ -512,11 +512,11 @@ int __cdecl main(void)
 }
 ```
 
-The Client is run with the IP addres of the server as the first and only argument.
+The client application requires a name or ip address to connect to (where the server was run). Try to execute it on the same computer running client localhost. Then, try to execute on a different computer by running client x.x.x.x where x.x.x.x is the ip address of the computer where the server is running.
 
 Afterwards you will have input for sending whatever you want to the destination server.
 
-*Winsock Client*
+***Winsock Client***
 ```
 #define WIN32_LEAN_AND_MEAN
 
