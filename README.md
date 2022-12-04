@@ -77,10 +77,9 @@ Please complete Task 2 with PBL information.
 
 ## Practical Exercices / Solutions
 
-- Practical Classes [Exercice Solutions](p/c-language-exercices.md)
+- [Practical Classes - C Language Examples](p/c-language-exercices.md)
+- [Practical Classes - Winsock Examples](p/sockets-exercices.md)
 - [The ANSI C Standard Library](https://www.csse.uwa.edu.au/programming/ansic-library.html)
-
-*much more to be published, mainly in Canvas*
 
 ## PBL related
 
