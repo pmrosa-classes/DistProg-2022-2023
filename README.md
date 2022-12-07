@@ -52,11 +52,11 @@ After completing this module students should be able to:
 | 10 | 30 nov | *1st Individual assignment presentation*; *Sockets Programming Exercices* |
 | 11 | 07 dec | *Sockets Programming Exercices*; *PBL Support*|
 |    | 12 dec | 2nd Acessement Delivery; |  
-| 12 | 14 dec | *2nd Individual assignment presentation*; *PBL Support*|
+| 12 | 14 dec | *PBL Support*|
 | -- | 21 dec | *Christmas Holidays* |
-| -- | 28 dec | *Christmas Holidays* |
-| 13 | 04 jan | *3rd Individual assignment support*; *PBL Support* |
-|    | 06 jan | *3rd Individual assignment delivery*;  |
+| -- | 28 dec | *2nd Individual assignment delivery*; *Christmas Holidays* |
+| 13 | 04 jan | *2nd Individual assignment presentation*; *PBL Support* |
+|    | 12 jan | *3rd Individual assignment delivery*;  |
 |    | 13 jan | 3rd Acessement Delivery; Final delivery of the PBL project + project report + individual discussion |
  
 ## Acessement 
