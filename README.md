@@ -58,7 +58,8 @@ After completing this module students should be able to:
 | 13 | 04 jan | *2nd Individual assignment presentation*; *PBL Support* |
 |    | 12 jan | *3rd Individual assignment delivery*;  |
 |    | 13 jan | 3rd Acessement Delivery; Final delivery of the PBL project + project report + individual discussion |
- 
+| 14 | 16 jan | *3rd Acessement Delivery Server Presentation* |
+
 ## Acessement 
 
 Acessement is made in two ways.
