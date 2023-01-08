@@ -60,9 +60,9 @@ After completing this module students should be able to:
 |    | 13 jan | 3rd Acessement Delivery; Final delivery of the PBL project + project report + individual discussion |
 | 14 | 16 jan | *3rd Acessement Delivery Server Presentation* |
 
-## Acessement 
+## Assessment 
 
-Acessement is made in two ways.
+Assessment is made in two ways.
 
 ### 1. Continuous assessment:
 -	50% Individual assignments
