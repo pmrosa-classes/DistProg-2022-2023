@@ -69,6 +69,8 @@ Acessement is made in two ways.
 -	25% Two deliveries & discussion of the PBL project 
 -	25% End of term assessment: Final delivery of the PBL project + project report + individual discussion
 
+Partial grades are available [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQXmUbA_pEfSGp1CvN28CubOIn6omHCVuQ9C_zCtLbnYJ9l6600lTdMC1XRzK1d3EPha1e_ggaCPNKI/pubhtml?gid=1894888675&single=true)
+
 Please complete Task 1 with Group information.
 
 Please complete Task 2 with PBL information.
